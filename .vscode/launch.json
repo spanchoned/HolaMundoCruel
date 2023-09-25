@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio01",
+            "request": "launch",
+            "mainClass": "ejercicio01",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio02",
+            "request": "launch",
+            "mainClass": "ejercicio02",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio03",
+            "request": "launch",
+            "mainClass": "ejercicio03",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio04",
+            "request": "launch",
+            "mainClass": "ejercicio04",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio05",
+            "request": "launch",
+            "mainClass": "ejercicio05",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1",
+            "request": "launch",
+            "mainClass": "ejercicio1",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio10",
+            "request": "launch",
+            "mainClass": "ejercicio10",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio2",
+            "request": "launch",
+            "mainClass": "ejercicio2",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio3",
+            "request": "launch",
+            "mainClass": "ejercicio3",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio4",
+            "request": "launch",
+            "mainClass": "ejercicio4",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio5",
+            "request": "launch",
+            "mainClass": "ejercicio5",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio6",
+            "request": "launch",
+            "mainClass": "ejercicio6",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio7",
+            "request": "launch",
+            "mainClass": "ejercicio7",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio8",
+            "request": "launch",
+            "mainClass": "ejercicio8",
+            "projectName": "java-main-branch_2df19a9c"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio9",
+            "request": "launch",
+            "mainClass": "ejercicio9",
+            "projectName": "java-main-branch_2df19a9c"
+        }
+    ]
+}

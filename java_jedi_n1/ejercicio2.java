@@ -1,6 +1,6 @@
 import java.util.Scanner; //se importa la clase scanner para darle entrada al usuario
 
-public class ejercicio2 {
+public class Ejercicio2 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in); // se objeto Scanner para leer la entrada del usuario

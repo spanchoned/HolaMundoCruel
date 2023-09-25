@@ -1,4 +1,4 @@
-public class ejercicio04 {
+public class Ejercicio04 {
     public static void main(String[] args) {
         // Datos de personas: nombres y edades
         String[] nombres = {"fran", "tami", "nati", "rocio", "tani"};

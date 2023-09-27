@@ -5,6 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         
+
+        {
+            "type": "java",
+            "name": "Tarea1",
+            "request": "launch",
+            "mainClass": "Tarea1",
+            "projectName": "java-main-branch_2df19a9c"
+        },
         {
             "type": "java",
             "name": "Ejercicio05",

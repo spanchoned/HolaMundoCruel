@@ -5,51 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec4e856-c9ea-40c7-84d7-47ed5f629951" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/holaMundoCruel/HolaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/holaMundoCruel/HolaMundo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-main-branch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-main-branch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/HolaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/java-main-branch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaMaestroN1/EjercicioOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaMaestroN1/EjercicioTwo.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio004.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio004.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio005.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio005.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio006.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio006.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/Ejercicio9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioSeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioSeven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioSix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,30 +38,39 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2Vxlh1PT8iibbyZPPw9TzT3zHuF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "desarrollo"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "desarrollo",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/User/Desktop/INFOR/informatorio etapa 3/java-branch-two",
+    "onboarding.tips.debug.path": "C:/Users/User/Desktop/INFOR/informatorio etapa 3/java-main-branch/java-jedi-two/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjercicioFour">
-    <configuration name="Ejercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio03" />
-      <module name="java-main-branch" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tarea1">
     <configuration name="Ejercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio04" />
       <module name="java-main-branch" />
@@ -114,13 +99,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tarea1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Tarea1" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tarea1" />
         <item itemvalue="Application.EjercicioFour" />
         <item itemvalue="Application.EjercicioSeven" />
         <item itemvalue="Application.Ejercicio05" />
         <item itemvalue="Application.Ejercicio04" />
-        <item itemvalue="Application.Ejercicio03" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +128,8 @@
       <updated>1695785749146</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

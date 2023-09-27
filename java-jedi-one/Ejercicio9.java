@@ -11,6 +11,7 @@ public class Ejercicio9 {
 
         System.out.println("el cuadrado del numero es " + cuadrado);
         System.out.println("el cubo del numero es " + cubo);
+        scanner.close();
 
 }
 }

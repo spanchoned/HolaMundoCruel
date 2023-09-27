@@ -23,5 +23,6 @@ public class Ejercicio7 {
         double suma= multi + multi2;
 
         System.out.println("la suma de " + multi + " y " + multi2 + " es " + suma );
+        scanner.close();
     }
 }

@@ -9,5 +9,6 @@ public class Ejercicio004 {
         final double TASA_CAMBIO=librasEstarlinas*dolar;
 
         System.out.println("Usted cuenta actualmente con " + TASA_CAMBIO + " dolares.");
+        scanner.close();
     }
 }

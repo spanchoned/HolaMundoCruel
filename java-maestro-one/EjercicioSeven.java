@@ -10,6 +10,7 @@ public class EjercicioSeven {
 
         final double F_C= m * (v*v) / r;
         System.out.println("la fuerza centrípeta necesaria para\r\n" + //
-                "mantener un objeto en una trayectoria circular es " + F_C);
+        "mantener un objeto en una trayectoria circular es " + F_C);
+        scanner.close();
     }
 }

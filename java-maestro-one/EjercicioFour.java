@@ -13,5 +13,6 @@ public class EjercicioFour {
         double media = (n1 + n2 + n3) / K;
 
         System.out.println("La media aritmética es " + media);
+        scanner.close();
     }
 }

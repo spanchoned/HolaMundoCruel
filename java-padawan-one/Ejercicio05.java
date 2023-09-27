@@ -13,8 +13,7 @@ public class Ejercicio05 {
         double libra3= scanner.nextDouble();
 
         final double KILOGRAMO=0.45359237;
-      
-
         System.out.println("la conversion de sus libras es " + (KILOGRAMO*libra1) + " kg,  " + (KILOGRAMO*libra2) + " kg, " + (KILOGRAMO*libra3) + " kg");
+        scanner.close();
     }
 }

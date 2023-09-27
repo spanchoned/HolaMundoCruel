@@ -21,7 +21,6 @@ public class Ejercicio006 {
         }
         double equivalenteDolares = bitcoin * TASA_CAMBIO;
         System.out.println("En dólares serian: $" + equivalenteDolares);
-
         scanner.close();
     }
 }

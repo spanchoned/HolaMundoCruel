@@ -11,5 +11,6 @@ public class EjercicioSix {
         final double G = 9.81;
         double v_f = v_i + (G * t);
         System.out.println("La velocidad final del objeto en caída libre es " + v_f + " m/s.");
+        scanner.close();
     }
 }

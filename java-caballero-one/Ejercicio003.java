@@ -9,5 +9,6 @@ public class Ejercicio003 {
         final double TASA_CAMBIO=euro*dolar;
 
         System.out.println("Usted cuenta actualmente con " + TASA_CAMBIO + " dolares.");
+        scanner.close();
     }
 }

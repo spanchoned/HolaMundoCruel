@@ -11,5 +11,6 @@ public class Ejercicio6 {
         String ultPelicula = scanner.nextLine();
 
         System.out.println("Nombre de la próxima bebida es " + ultMascota + " " + ultPelicula);
+        scanner.close();
     }
 }

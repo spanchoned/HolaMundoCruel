@@ -9,8 +9,6 @@ public class Ejercicio002 {
         final int TASA_CAMBIO=peso*dolar;
 
         System.out.println("Usted cuenta actualmente con " + TASA_CAMBIO + " pesos.");
-
-
-
+        scanner.close();
     }
 }

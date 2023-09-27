@@ -13,6 +13,7 @@ public class Ejercicio005 {
 
         euros = pesos / TASA_CAMBIO;
         System.out.println("Actualmente tiene tantos euros: " + euros);
+        scanner.close();
     }
 
 }

@@ -28,5 +28,6 @@ public class Ejercicio10 {
 
         System.out.println("las multiplicaciones son " + multi + " " + multi2 + " " + multi3 + " " + multi4 + " " + multi5 + " " + multi6 + " " + multi7
         + " " + multi8 + " " + multi9 + " " + multi10 + " " + multi11 + " " + multi12 + " " + multi13 + " " + multi14 + " " + multi15);
+        scanner.close();
     }
 }

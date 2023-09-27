@@ -16,5 +16,6 @@ public class Ejercicio4 {
         } else {
             System.out.println("El primer número no es divisible, el resultado es " + (num1 / num2));
         }
+        scanner.close();
     }
 }

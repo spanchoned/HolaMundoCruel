@@ -9,5 +9,6 @@ public class EjercicioFive {
 
         final double E=(1.0/2)*m*(v*v);
         System.out.println("La energía cinética de su obj. en movimiento es: " +  E);
+        scanner.close();
     }
 }

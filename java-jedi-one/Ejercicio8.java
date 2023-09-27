@@ -11,6 +11,6 @@ public class Ejercicio8 {
 
         System.out.println("Mi nombre es " + nombre);
         System.out.println("Mi edad es " + edad);
-
+        scanner.close();
     }
 }

@@ -11,7 +11,3 @@ public class Ejercicio3 {
     }
 }
 
-// La razón por la que no puedes usar comillas dobles ("")
-//en el tipo char es porque las comillas dobles se utilizan para
-//representar cadenas de caracteres (strings) en Java, mientras que las comillas simples ('')
-//se utilizan para representar caracteres individuales. 

@@ -1,5 +1,3 @@
-package javaCaballeroN1;
-
 public class Ejercicio001 {
     public static void main(String[] args) {
         double num1 = 0.5;

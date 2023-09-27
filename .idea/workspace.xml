@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ec4e856-c9ea-40c7-84d7-47ed5f629951" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holaMundoCruel/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holaMundoCruel/HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-main-branch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-main-branch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCaballeroN1/Ejercicio006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaJediN1/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaMaestroN1/EjercicioTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPadawanN1/Ejercicio05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/EjercicioFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/java-main-branch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaCaballeroN1/Ejercicio005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaMaestroN1/EjercicioOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-main-branch/javaMaestroN1/EjercicioTwo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Vxlh1PT8iibbyZPPw9TzT3zHuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "desarrollo"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EjercicioFour">
+    <configuration name="Ejercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio03" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio04" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio05" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioFour" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioSeven" />
+      <module name="java-main-branch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjercicioFour" />
+        <item itemvalue="Application.EjercicioSeven" />
+        <item itemvalue="Application.Ejercicio05" />
+        <item itemvalue="Application.Ejercicio04" />
+        <item itemvalue="Application.Ejercicio03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec4e856-c9ea-40c7-84d7-47ed5f629951" name="Changes" comment="" />
+      <created>1695785749146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695785749146</updated>
+    </task>
+    <servers />
+  </component>
+</project>

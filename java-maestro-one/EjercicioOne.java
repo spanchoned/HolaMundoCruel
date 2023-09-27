@@ -1,5 +1,3 @@
-package javaMaestroN1;
-
 public class EjercicioOne {
     public static void main(String[] args) {
         double radio = 5.0;

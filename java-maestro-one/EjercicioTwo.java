@@ -1,5 +1,3 @@
-package javaMaestroN1;
-
 public class EjercicioTwo {
     public static void main(String[] args) {
         double celsius = 1.0;

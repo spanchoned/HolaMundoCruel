@@ -7,13 +7,19 @@ public class Tarea2 {
         String name = scanner.next();
         String[] amigos = {"rocio", "nati", "mariana", "moria"};
 
+        boolean esAmigo = false;
+
         for (String amigo : amigos) {
             if (amigo.equals(name)) {
                 System.out.println("Si somos amigos :) " + amigo);
+                esAmigo = true;
                 break;
-            } else {
-                System.out.println("No sosmos amigos :(");
             }
         }
+
+        if (!esAmigo) {
+            System.out.println("No sosmos amigos :(");
+        }
+        scanner.close();
     }
 }

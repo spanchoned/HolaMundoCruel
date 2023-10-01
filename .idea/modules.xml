@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-branch-two.iml" filepath="$PROJECT_DIR$/.idea/java-branch-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-jedi-two/java-jedi-two.iml" filepath="$PROJECT_DIR$/java-jedi-two/java-jedi-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-padawan-two/java-padawan-two.iml" filepath="$PROJECT_DIR$/java-padawan-two/java-padawan-two.iml" />
     </modules>
   </component>
 </project>

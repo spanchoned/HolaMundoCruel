@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Tarea012 {
+public class TareaSeven {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -14,8 +14,8 @@ public class Tarea012 {
         String entrenadorA= scanner.nextLine();
         String entrenadorB = scanner.nextLine();
 
-        String[] jugadoresA = {"Cavani", "Medina", "Barco", "Romero"};
-        String[] jugadoresB = {"Enzo", "Aliendro", "De la Cruz", "Armani"};
+        String[] jugadoresA = {"Messi", "DiMaria", "Martinez"};
+        String[] jugadoresB = {"Mbappe", "Griezman", "Mouni"};
 
         jugadoresA[0] = equipoA;
         jugadoresB[0] = equipoB;
